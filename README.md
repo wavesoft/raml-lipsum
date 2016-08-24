@@ -1,6 +1,9 @@
-# raml-lipsum
+# raml-lipsum [Beta]
 
-Generates random data from RAML type specifications
+Generates random data from RAML 1.0 type specifications
+
+**NOTE:** This generator operats only on the RAML 1.0 `type` specifications.
+It's not aware of anything else at the moment.
 
 # Usage
 
