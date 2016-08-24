@@ -1,0 +1,23 @@
+{
+  "name": "raml-lipsum",
+  "version": "0.1.0",
+  "description": "Generates random data from RAML specifications",
+  "main": "lib/generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raml",
+    "generator"
+  ],
+  "author": "Ioannis Charalampidis",
+  "license": "MIT",
+  "dependencies": {
+    "lorem-ipsum": "^1.0.3",
+    "raml-1-parser": "^1.0.0",
+    "randexp": "^0.4.3"
+  },
+  "bin": {
+    "raml-lipsum": "./cli.js"
+  }
+}
