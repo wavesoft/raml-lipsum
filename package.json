@@ -13,9 +13,9 @@
   "author": "Ioannis Charalampidis",
   "license": "MIT",
   "dependencies": {
-    "lorem-ipsum": "^1.0.3",
-    "raml-1-parser": "^1.0.0",
-    "randexp": "^0.4.3"
+    "lorem-ipsum": "^1.0.5",
+    "raml-1-parser": "^1.1.44",
+    "randexp": "^0.4.9"
   },
   "bin": {
     "raml-lipsum": "./cli.js"
