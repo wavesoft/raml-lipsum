@@ -1,6 +1,6 @@
 {
   "name": "raml-lipsum",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Generates random data from RAML specifications",
   "main": "lib/generator.js",
   "scripts": {
